@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/sunset-mountain_JHPY0LIBLY.jpg");
+	background-size: cover;
+	min-height: 100vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-blend-mode: multiply;
+	background-color: #667;
+}
+header{
+	text-align: center;
+	color: #362222;
+	text-shadow: 4px 6px 5px #d1c145, -4px -6px 5px #d08752;
+	line-height: 0.8;
+	font-family: "Lobster", cursive;
+	font-size: 2em;
+}
+
+h3{
+    color: #eee5e5;  
+}
